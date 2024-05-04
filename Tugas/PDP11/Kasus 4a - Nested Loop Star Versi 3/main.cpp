@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Kasus 4a - Nested Loop Star Versi 3" << endl;
+    cout << " " < endl;
+    int i,j,k,space=10;
+
+    for (int i=0;i<=5;i++)
+    {
+        for (int k=0;k<space;k++)
+        {
+        cout<<" ";
+        }
+        for (int j=0;j<2*i-1;j++)
+        {
+        cout<<"*";
+        }
+        space--;
+        cout<<endl;
+    }
+    return 0;
+ }
