@@ -1,0 +1,19 @@
+Nama	: Reza Aditya Prabowo 
+NIM	: A11.2022.14201
+Kel	: A11.4105
+
+Kasus 2 - Program Konversi Nilai 
+Judul 	  : Notasi Angka Kasus 2 
+Kamus 	  : input bilangan berjumlah lebih atau kurang dari 10 akan diberitahu oleh program
+	    yang dimana akan membuat hasilnya menjadi bilangan 10
+	    Bilangan : interger
+
+Algoritma : input bilangan (bilangan) 
+	    depend on  (bilangan) 
+	    bilangan < 10 : output ("Peringatan program bahwa bilangan kurang dari 10")
+	    bilangan > 10 : output ("Peringatan program bahwa bilangan lebih dari 10")
+	    bilangan = 10 : output ("Peringatan program bahwa bilangan sudah berjumlah 10")
+
+	    Jadi, Program bilangan sudah diatur apabila bilangan lebih dari, kurang dari ataupun 
+	    sama dengan jumlah 10 bilangan maka program tetap akan memeberi peringatan bahwa
+	    bilangan yang di input sesuai dengan set program  

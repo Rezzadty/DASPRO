@@ -1,0 +1,17 @@
+Nama	: Reza Aditya Prabowo 
+NIM	: A11.2022.14201
+Kel	: A11.4105
+
+kasus 3 - Great Sale  
+Judul 	  : Notasi Angka Kasus 3
+Kamus 	  : Interger
+
+Algoritma : input bilangan (Jumlah barang yang dibeli) 
+	    depend on  (jumlah barang yang dibeli)
+	    Jumlah barang <=3 : (tidak mendapatkan Diskon)
+	    3 > jumlah barang yang dibeli <= 5: (Diskon 2%)
+	    6 > Jumlah barang yang dibeli <= 10: (Diskon 5%)
+	    11 > Jumlah barang yang dibeli <=17: (Diskon 10%)
+ 	    Jumlah barang yang dibeli <= 18: (Diskon 20%) 
+	    Jadi, Jumlah barang minimal 3 untuk mendapatkan diskon dan maksimal diskon 
+	    yang didapat yaitu berjumlah 20% apabila membeli barang berjumlah 18 bauh ataupun lebih.

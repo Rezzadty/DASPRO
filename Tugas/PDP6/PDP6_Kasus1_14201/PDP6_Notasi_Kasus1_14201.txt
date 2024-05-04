@@ -1,0 +1,21 @@
+Nama : Reza Aditya Prabowo
+NIM  : A11.2022.14201
+KEL  : A11.4105
+
+Kasus 1 - Program Konversi Nilai 
+Judul : Notasi Angka Kasus 1 
+Kamus : Nilai Huruf yang didapatkan oleh siswa/siswi ditentukan 
+	oleh Nilai angka yang diperoleh oleh siswa/siswi
+	Nilai merupakan bilangan real.
+
+Algoritma : 	input (Nilai)
+	    	depend on (nilai) 
+		nilai >= 85: output ("A")
+		80 >= nilai < 85: output ("AB")
+		70 >= nilai < 80: output ("B")
+		65 >= nilai < 70: output ("BC")
+		60 >= nilai < 65: output ("C")
+		50 >= nilai < 60: output ("D")
+		0  >= nilai < 50: output ("E")
+		Jadi, Nilai huruf yang nantinya diperoleh oleh siswa ditentukan 
+		oleh nilai yang diperoleh oleh siswa itu sendiri 
