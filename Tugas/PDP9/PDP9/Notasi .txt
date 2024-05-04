@@ -1,0 +1,81 @@
+	Kasus 1 - Penjumlahan Deret 
+
+Judul 		:Penjumlahan deret 5 angka  
+
+Kamus 		:Tipe data :Interger 
+		 variabel  :sum, x
+
+algoritma 	: for (x=1; x<6; x++){
+       		  output << hasil sum << 
+
+	Kasus 1a - Penjumlahan Deret Versi 2 
+
+Judul 		:program dapat menerima input 5 bilangan integer secara bebas, kemudian
+		 5 bilangan tersebut dijumlahkan.
+
+Kamus 		:tipe data : interger
+		 variabel  : sum, x, n, m
+
+algoritma 	: for (x=1; x<=n; x++)
+
+		  output << hasil sum << 
+
+	Kasus 2 - Terbesar dan Terkecil 
+
+Judul 		:program menampilkan angka terbesar dan angka terkecil dari N deret
+		 bilangan
+
+Kamus 		:tipe data : interger 
+		 variabel  : sum, n, i, k, b
+
+algoritma	:for (i=1; i<=n; i++) to do 
+		 	output << x << 
+		 for (i=1; i<=n; i++) to do 
+		       	if (k > i){ else  
+			k=i;
+			}
+		 for (i=1; i<=n; i++) to do 
+			if (b > i){ else 
+			b=i;
+			}	
+
+		 output << Nilai Terkecil 
+		 output << Nilai Terbersar
+		 
+
+	Kasus 2a- Modifikasi kasus 2 
+
+Judul 		:program dapat menerima 5 bilangan integer secara bebas, kemudian
+		 menampilkan: - Bilangan terkecil
+			      - Bilangan terbesar
+			      - Jumlah 5 bilangan
+			      - Rata – rata dari 5 bilangan tersebut
+
+Kamus 		:tipe data : interger 
+		 variabel : sum, n, i, k, b, rata, x
+
+Algoritma	:for (i=1; i<=n; i++) to do 
+		 	if (k > x) { else 
+			k=x;
+			}
+			if (b < x) { else 
+			b=x;
+			}
+		output << Nilai terkecil 
+		output << Nilai terbesar 
+		output << Hasil jumlah sum 
+		output << rata-rata
+
+	Kasus 3 - Modifikasi deret 
+
+Judul 		:program menampilkan deret N bilangan integer. Jika bilangan deret adalah
+		 2 maka diganti dengan bilangan pangkat 2.
+Kamus 		:tipe data : interger
+		 variabel : int i,n,ganti
+Algoritma	:for(i=1;i<=n;i++){ to do 
+		 ganti = x;
+		 if(i==2) { else 
+		 ganti=i*i
+		 	} 
+		 }
+		 otuput << ganti 

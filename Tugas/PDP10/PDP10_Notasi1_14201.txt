@@ -1,0 +1,26 @@
+A11.2022.14201
+A11.4105
+Reza Aditya Prabowo 
+
+Notasi Tugas PDP - 10 
+
+Kasus 1 - Deret Factorial 
+
+Judul	: hasil faktorial berdasarkan input 
+	  bilangan positif integer.
+
+Variabel : Tipe data : Interger 
+	   Variabel  : int x, i, while 
+
+Algoritma :int x;
+	   int result = 1;
+	   "Input Bilangan : "; cin >> x
+	   while (x<=0){
+           cout << "Angka yang dimasukkan bukan bilangan 
+	   bulat atau adalah angka 0 " <<;
+    	    }
+    		for (int i = 1; i <= x; i++){
+        	result *=i;
+    	    }
+    	   output << "Hasil faktorial " << x << 
+	   " adalah : " << result   
