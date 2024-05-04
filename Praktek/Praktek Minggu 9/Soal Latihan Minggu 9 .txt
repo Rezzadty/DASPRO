@@ -1,0 +1,7 @@
+profesor x akan memberikan nilai terhadap siswanya 
+dengan 4x ujian. Buat program menghitung rata rata nilai 
+dari 4x ujian tersebut.Buat dengan well 
+
+ptx membuat permainan tebak angka pemain diberi kesempatan 
+3x untuk menebak. jika tebakan benar program akan menampilkan 
+selama anda benar ! ambil reward mu 
