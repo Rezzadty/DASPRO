@@ -1,0 +1,14 @@
+A11.2022.14201
+A11.4105
+Reza Aditya Prabowo
+
+Kasus 3 - Deret Ganjil / Genap 
+
+Judul :  diberikan 2 input integer, misal A dan B. 
+	- tampilkan deret bilangan genap antara bilangan A dan B
+	- tampilkan deret bilangan ganjil antara bilangan A dan B
+
+variabel : Tipe Data : Interger 
+	   Variabel  : 
+
+Algoritma : 

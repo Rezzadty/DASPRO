@@ -1,0 +1,13 @@
+A11.2022.14201
+A11.4105
+Reza Aditya Prabowo 
+
+Kasus 4 - Deret 5 
+
+Judul : program menampilkan bilangan 1 – 50 yang habis 
+	dibagi 5 (bilangan kelipatan 5).
+
+Variabel : Tipe Data : Interger 
+	   Veriabel  : 
+
+Algoritma : 
